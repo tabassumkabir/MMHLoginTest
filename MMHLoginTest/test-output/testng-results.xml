@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-12T14:19:47 ALMT" name="Suite" finished-at="2022-04-12T14:19:55 ALMT" duration-ms="7850">
+    <groups>
+    </groups>
+    <test started-at="2022-04-12T14:19:47 ALMT" name="Test" finished-at="2022-04-12T14:19:55 ALMT" duration-ms="7850">
+      <class name="TestCase.Login">
+        <test-method is-config="true" signature="setDriver()[pri:0, instance:TestCase.Login@6bb2d00b]" started-at="2022-04-12T14:19:44 ALMT" name="setDriver" finished-at="2022-04-12T14:19:47 ALMT" duration-ms="2435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method signature="login()[pri:0, instance:TestCase.Login@6bb2d00b]" started-at="2022-04-12T14:19:47 ALMT" name="login" finished-at="2022-04-12T14:19:55 ALMT" duration-ms="7726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCase.Login@6bb2d00b]" started-at="2022-04-12T14:19:55 ALMT" name="close" finished-at="2022-04-12T14:19:55 ALMT" duration-ms="91" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCase.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
